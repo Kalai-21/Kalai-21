@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kalai-21
 - 👀 I’m interested in Cloud
 - 🌱 I’m currently learning azure admin 104
-- 💞️ I’m looking to collaborate on azure learing stuff and how to get job i cloud profile
+- 💞️ I’m looking to collaborate on azure learing stuff and how to get job in cloud profile
 - 📫 How to reach me through github
 
 <!---
